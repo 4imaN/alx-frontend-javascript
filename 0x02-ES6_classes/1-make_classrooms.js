@@ -1,6 +1,6 @@
-import Classroom from './Classroom';
+import ClassRoom from './0-classroom';
 
-export default function makeClassrooms(classrooms) {
-    const rooms = [new classrooms(19), new classrooms(20), new classrooms(34)];
-    return rooms;
+export default function initializeRooms() {
+  const rooms = [new ClassRoom(19), new ClassRoom(20), new ClassRoom(34)];
+  return rooms;
 }

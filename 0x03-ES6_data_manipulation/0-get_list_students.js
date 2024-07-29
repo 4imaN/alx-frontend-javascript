@@ -8,15 +8,11 @@ function getListStudents() {
     {
       id: 2,
       firstName: 'James',
-      location:'San Francisco',
+      location:'Columbia',
     },
     {
-      id: 3,
+      id: 5,
       firstName: 'Serena',
       location: 'San Francisco',
     },]
 }
-
-const students = getListStudents()
-
-console.log(students)

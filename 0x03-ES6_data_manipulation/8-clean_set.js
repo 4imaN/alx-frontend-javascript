@@ -1,5 +1,3 @@
-// returns a string of all the set values
-// that start with a specific string (startString).
 export default function cleanSet(set, startString) {
   return startString !== ''
     && startString !== undefined

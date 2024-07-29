@@ -1,4 +1,7 @@
-0x03 ES6 Data Manipulation
-=========================
+# 0x03. ES6 data manipulation
 
-In this chapter we will learn how to use the new features of ES6 to manipulate data.
+## Learning Objectives
+
+- How to use map, filter and reduce on arrays
+- Typed arrays
+- The Set, Map, and Weak link data structures
